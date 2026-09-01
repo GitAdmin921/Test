@@ -17,7 +17,7 @@
  * 10. Copy the Web app URL into index.html as QUOTE_API_URL.
  */
 
-const SPREADSHEET_ID = "PASTE_YOUR_GOOGLE_SHEET_ID_HERE";
+const SPREADSHEET_ID = "1ceduyXPT-1eUmdk3xV0FJPY2WL7klF4h-zprpJW_5s4";
 const SHEET_NAME = "Quote Requests";
 
 function setupSheet() {
